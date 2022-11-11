@@ -1,0 +1,1 @@
+python testing.py -t data/test/ -l data/class_test.txt

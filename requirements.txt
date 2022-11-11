@@ -1,0 +1,5 @@
+cvutils==0.2.4
+opencv-python==4.6.0.66
+scikit-image==0.19.3
+scikit-learn==1.1.3
+scipy==1.8.1
