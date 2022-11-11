@@ -10,11 +10,11 @@
 __Perform training using__
 
 ```
-python perform-training.py -t data/lbp/train/ -l data/lbp/class_train.txt
+python training.py -t data/train/ -l data/class_train.txt
 ```
 
 __Perform testing using__
 
 ```
-python perform-testing.py -t data/lbp/test/ -l data/lbp/class_test.txt
+python testing.py -t data/test/ -l data/class_test.txt
 ```
